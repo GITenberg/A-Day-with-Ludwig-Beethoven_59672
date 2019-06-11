@@ -1,0 +1,25 @@
+_repo: A-Day-with-Ludwig-Beethoven_59672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Clare, Maurice
+    - Gillington, May Clarissa
+    - Gillington, M. C. (May Clarissa)
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2019-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Day with Ludwig Beethoven
+url: http://www.gutenberg.org/ebooks/59672
